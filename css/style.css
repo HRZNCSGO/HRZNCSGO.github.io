@@ -117,3 +117,11 @@ ul#horizontal li
     color: white;
     font-weight: lighter;
 }
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: white;
+    text-decoration: none;
+  }
