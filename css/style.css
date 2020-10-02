@@ -1,9 +1,9 @@
 
-    @font-face
-    {
-        font-family: bdt;
-        src: url("././fonts/big_noodle_titling.ttf")
-    }
+@font-face
+{
+    font-family: bdt;
+    src: url(".././fonts/big_noodle_titling.ttf")
+}
 
 nav
 {
